@@ -1,0 +1,76 @@
+HR Analytics Dashboard description:-
+ The dashboard provides insights into various aspects of the company's workforce, including:
+ 
+Key Insights:-
+	Employee Overview
+•	Total Employees: 1,470
+•	Active Employees: 1,233
+•	Attrition Count: 237
+•	Average Age of Employees: 37 years
+•	Average Income: $6,500/month
+	Marital Status Distribution
+•	Single
+•	Married
+•	Divorced
+ 	Income Analysis
+	Average Monthly Income by Job Role:
+•	Highest to Lowest:
+•	Manager: $17,200
+•	Research Director: $16,000
+•	Healthcare: $7,500
+•	Manufacturing: $7,300
+•	Sales Roles (Executive, Representative): $6,900 - $4,200
+ 	Performance and Attrition Metrics
+	Performance Rating by Department:
+•	R&D: 30.18%
+•	Sales & HR: 65.55%
+•	Others: 4.27%
+	Attrition Rate by Gender:
+•	Male: 53.48%
+•	Female: 46.52%
+
+ 	Employee Distribution by Job Role
+	Total Employees by Role (most to least):
+•	Sales Executive
+•	Research Scientist
+•	Laboratory Technician
+•	Manufacturing Director
+•	Sales Representative
+•	Research Director
+•	Human Resources
+
+ 	Satisfaction Ratings
+	Job Satisfaction Rating Summary:
+•	Sales Executive: 269 (high satisfaction)
+•	Sales Representative: 50 (lowest satisfaction)
+•	Research roles generally have higher satisfaction ratings compared to sales
+	Key Summary:-
+o	Total Employees:
+	1470 total workforce
+	1233 active employees
+	237 attrition count, indicating a turnover rate that necessitates attention.
+o	Demographics:
+	Average age of employees is 37 years.
+	Relationship status of employees:
+	Divorced: Percentage not specified.
+	Married: Percentage not specified.
+	Single: Percentage not specified.
+o	Average Monthly Income:
+	Highest income category: Managers with $17.2K.
+	Lowest income category: Laboratory Technicians with $2.6K.
+	Significant income disparity between roles, highlighting potential areas for pay adjustments.
+o	Attrition Rate by Gender:
+	Male: 53.48%
+	Female: 46.52%
+	Suggests a slightly higher attrition rate among male employees.
+o	Performance Ratings by Department:
+	Top-performing departments: R&D (30.18%) and Sales & HR (65.55% combined).
+o	Job Role Distribution
+o	Total Employees by Job Role:
+	Highest number of employees in Sales Executive (often one of the most critical roles).
+	Several roles, such as Laboratory Technician, have fewer representatives, indicating possible recruitment opportunities.
+o	Job Satisfaction Ratings
+	Overall Job Satisfaction:
+	Key focus on Sales roles showing varied satisfaction levels.
+	Highest satisfaction reported in Sales Executive (269), while others like Research Director (78) exhibit lower satisfaction rates.
+	Overall, this dashboard offers a comprehensive overview of the company's workforce, highlighting key metrics like employee count, attrition, average income, job satisfaction, and performance, by different demographic factors and job roles.
